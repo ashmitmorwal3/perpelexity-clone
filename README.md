@@ -64,3 +64,8 @@ Backend: `http://localhost:3001`
 - `TAVILY_API_KEY` for higher-quality web retrieval
 - `SERPER_API_KEY` for Google-quality web retrieval (via Serper)
 - `SEARCH_PROVIDER` as `auto` (default), `serper`, `tavily`, or `duckduckgo`
+
+
+
+
+xyz
