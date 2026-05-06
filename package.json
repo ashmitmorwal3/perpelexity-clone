@@ -1,0 +1,14 @@
+{
+  "name": "perplexity-clone",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:frontend": "cd frontend && bun run dev",
+    "dev:backend": "cd backend && bun run dev",
+    "build:frontend": "cd frontend && bun run build"
+  }
+}
